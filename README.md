@@ -7,9 +7,9 @@
 
 
  
-👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>
-👨🏼‍💻 working as a web developer since 2022 <br>
-🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems .
+💻 working as a backend developer <br>
+
 
 
  
