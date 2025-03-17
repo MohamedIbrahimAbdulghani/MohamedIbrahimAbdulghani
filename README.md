@@ -7,8 +7,8 @@
 
 
  
-👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems .
-💻 working as a backend developer <br>
+👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems . <br>
+💻 working as a backend developer .<br>
 
 
 
