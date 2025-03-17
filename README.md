@@ -18,7 +18,7 @@
   </a>
 
    <a href="https://api.whatsapp.com/send/?phone=%2B201205481045&text&type=phone_number&app_absent=0">
-    <img src="https://img.shields.io/badge/Whatsapp-333333?style=for-the-badge&logo=gmail&logoColor=green" />
+    <img src="https://img.shields.io/badge/Whatsapp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
   </a>
   
   <a href="https://www.linkedin.com/in/mohamedibrahimabdulghani/" target="_blank">
