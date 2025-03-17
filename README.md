@@ -57,16 +57,10 @@
 ## GitHub Streaks 🔥
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
 
 
 <hr/>
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 <br/>
