@@ -5,10 +5,10 @@
 </h1>
 
 
-
+💻 working as a backend developer .<br>
  
 👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems . <br>
-💻 working as a backend developer .<br>
+
 
 
 
