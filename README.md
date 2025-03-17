@@ -6,10 +6,7 @@
 
 
 💻 working as a backend developer .<br>
- 
 👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems . <br>
-
-
 
 
  
