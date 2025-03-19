@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;I'm+Mohamed+Ibrahim+♥️;I'm+Software+Developer" />
 </h1>
 
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 💻 working as a backend developer .<br>
 👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems . <br>
 
