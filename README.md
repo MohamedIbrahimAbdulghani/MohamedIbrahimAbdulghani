@@ -7,7 +7,6 @@
 💻 working as a backend developer .<br>
 👨🏼‍🎓 Bachelor’s degree in Computer Science and Information Systems . <br>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
  
   <a href="mailto:mohamedibrahimabdulghani@gmail.com">
@@ -24,6 +23,7 @@
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
  <hr/>
  
